@@ -12,6 +12,6 @@
 		"cross-env": "5.x"
 	}
 	, "engines": {
-		"node": "9.x"
+	
 	}
 }
